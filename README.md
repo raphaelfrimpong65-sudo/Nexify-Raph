@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Title: gold, centered, Orbitron font -->
-<a href="https://github.com/BrytTito">
+<a href="https://github.com/NexifyRaph">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=3000&pause=1500&color=B8923F&center=true&vCenter=true&width=540&height=90&lines=Nexify+Raph" alt="Nexify Raph" />
 </a>
 
@@ -20,7 +20,7 @@
 
 <img align="right" width="110" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="rocket" />
 
-I'm **Nexify Raph** — an IT enthusiast and Full Stack Developer with a genuine curiosity for how things work and a drive to solve real problems.
+Hi, I'm **Nexify Raph** — a developer who loves turning ideas into clean, working software. From polished interfaces to solid back-ends, I enjoy building complete products and learning something new with every project. Based in Ghana 🇬🇭 and ready to grow with a team that builds things that matter.
 
 <br/>
 
@@ -52,8 +52,8 @@ I'm **Nexify Raph** — an IT enthusiast and Full Stack Developer with a genuine
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BrytTito&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B8923F&icon_color=74835A&text_color=C9D1D9" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrytTito&layout=compact&hide_border=true&bg_color=0D1117&title_color=B8923F&text_color=C9D1D9" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NexifyRaph&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B8923F&icon_color=74835A&text_color=C9D1D9" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexifyRaph&layout=compact&hide_border=true&bg_color=0D1117&title_color=B8923F&text_color=C9D1D9" alt="Top languages" />
 </div>
 
 <br/>
