@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- Title: gold monospace, centered -->
+<!-- Title: gold, centered, Orbitron font -->
 <a href="https://github.com/BrytTito">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=1500&color=B8923F&center=true&vCenter=true&width=435&height=90&lines=Pixel" alt="Pixel" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=3000&pause=1500&color=B8923F&center=true&vCenter=true&width=540&height=90&lines=Nexify+Raph" alt="Nexify Raph" />
 </a>
 
 <br/>
@@ -16,15 +16,15 @@
 
 <br/>
 
-## 🧭 About Me
+## 🌟 About Me
 
-<img align="right" width="110" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="waving hand" />
+<img align="right" width="110" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="rocket" />
 
-I'm **BrytTito** — an IT enthusiast and Full Stack Developer with a genuine curiosity for how things work and a drive to solve real problems.
+I'm **Nexify Raph** — an IT enthusiast and Full Stack Developer with a genuine curiosity for how things work and a drive to solve real problems.
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🧩 Tech Stack
 
 <!-- Replace / add the technologies you actually use -->
 <p>
@@ -40,16 +40,16 @@ I'm **BrytTito** — an IT enthusiast and Full Stack Developer with a genuine cu
 
 <br/>
 
-## 🚀 What I'm Up To
+## 🎯 What I'm Up To
 
-- 🔭 Currently building: **your project here**
-- 🌱 Currently learning: **your focus here**
+- 🛠️ Currently building: **your project here**
+- 📚 Currently learning: **your focus here**
 - 💼 Looking for: **internship opportunities** in software development
-- ⚡ Fun fact: **something about you**
+- 💡 Fun fact: **something about you**
 
 <br/>
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=BrytTito&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B8923F&icon_color=74835A&text_color=C9D1D9" alt="GitHub stats" />
@@ -58,7 +58,7 @@ I'm **BrytTito** — an IT enthusiast and Full Stack Developer with a genuine cu
 
 <br/>
 
-## 📫 Let's Connect
+## 🤝 Let's Connect
 
 <p>
   <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LINKEDIN-161616?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
